@@ -1,0 +1,168 @@
+html, body {
+    height: 100%;
+}
+body{
+    min-width: 320px;
+    font-family: "Jost", sans-serif;
+    background-color: #ffffff;
+      
+}
+
+.wrapper{
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+main.main{
+    flex: 1 1 auto;
+}
+.nav-link{
+    color:#000000 ;
+    border: none
+    
+}
+.good{
+color: #F6623E;
+font-size: 2vw;
+}
+.apple{
+    margin-top: -4%;
+    font-size: 4vw;
+    font-weight: 600;
+}
+.good1{
+    font-size: 1.5vw;
+    
+}
+.shapka{
+    margin-top: -30vw;
+    margin-left: 50vw;
+    margin-right: 5vw;
+}
+
+.shop{
+    color: #FFFCF6;
+    border: none;
+    text-align: center;
+    margin-left: 48.5vw;
+    font-size: 1.5vw;
+}
+
+.shop1{
+    background-color: #F6623E;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+
+.close{
+    background-color: #F6623E;
+    border: none;
+}
+
+.okno{
+    color: #F6623E;
+}
+
+.pick{
+    font-size: 2vw;
+    text-align: center;
+}
+.the{
+    color: #fffcf6ab;
+    margin-left: 70vw;
+    margin-top: -3vh;
+    font-size: 1vw;
+}
+.text1{
+    font-size: 3.5vw;
+    margin-top:14vw;
+    margin-right: 5vw;
+    color: #000000;
+    
+}
+
+
+
+.img2{
+    margin: 2vw;
+}
+.timg{
+    margin-left: 2vw;
+}
+
+.ourpro{
+    font-size: 3.5vw;
+    text-align: center;
+    margin-top: 20%;
+}
+
+.imgg{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2%;
+    margin-top: 8%;
+}
+.te1{
+    font-size: 2vw;
+    grid-column: 1/2;
+    grid-row: 2/2;
+}
+.te2{
+    grid-row: 2/2;
+    font-size: 2vw;
+}
+.te3{
+    grid-row: 2/2;
+    font-size: 2vw;
+}
+
+.ourpro1{
+    font-size: 3.5vw;
+    text-align: center;
+    margin-top: 5vh;
+}
+
+.forma{
+    margin-top: 5%;
+    padding: 5%;
+}
+.become{
+    margin-top: 10vh;
+    font-weight: 400;
+    text-align: center;
+    color: #000000;
+    font-size: 5vw;
+}
+.knopfo{
+    background-color: #F6623E;
+    color: #ffffff;
+}
+
+
+
+.footer{
+    background-color: #FFF8F6;
+}
+.konez{
+    margin-left: 5vw;
+    margin-top: 15vw;
+    font-size: 2vw;
+}
+.more{
+    font-weight: 600;
+    
+    font-size: 3vw;
+}
+.mor{
+    margin-left: 60vw;
+    margin-top: -22vw;
+    padding-bottom: 5vw;
+}
+.mo{
+    font-size: 2vw;
+    color: #F6623E;
+    
+}
